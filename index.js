@@ -22,6 +22,8 @@ io.on('connection', function(socket){
     });
 });
 
+//Working?
+
 var user = function()
 {
     var score = 0;
