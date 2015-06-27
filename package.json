@@ -1,0 +1,9 @@
+{
+  "name": "CardsAgainstJumanity",
+  "version": "0.0.1",
+  "description": "Cards Against Humanity -- Jumla",
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "^1.3.5"
+  }
+}
